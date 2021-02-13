@@ -25,7 +25,7 @@ seguir las instrucciones de este video:
 
 [Conectar IFTTT twiter instagram](https://youtu.be/TG-JvbMMItk)
 
-**Bien, si ahora publicas en Instagram, aún no se ve en Twitter la foto que hayas publicado**, si no un enlace (MIRA NOTA EN PIE DE PÁGINA). Esto es porque IFTTT tarde al menos unos minutos en traducir ese enlace a foto. Si quieres, vuelve a mirar tu Twitter dentro de unos minutos para ver si el enlace "se ha convertido" en imagen.
+**Bien, si ahora publicas en Instagram, aún no se ve en Twitter la foto que hayas publicado**, si no un enlace (MIRA NOTA EN PIE DE PÁGINA). Esto es porque IFTTT tarda al menos unos minutos en traducir ese enlace a foto. Si quieres, vuelve a mirar tu Twitter dentro de unos minutos para ver si el enlace "se ha convertido" en imagen.
 
 A mí me ha tardado algo menos de cinco minutos como puedes ver (flecha roja en la foto).
 ![5minutos](5minutos.png)
@@ -40,4 +40,4 @@ Carmen ML
 
 Asegúrate de que cuando publiques desde instagram, los "checks" estén en azul/ON publicar también Facebook y Twitter tal y como muestra  la siguiente imagen:
 
-![checks_publicar](checks_publicar.png)
+![checks_publicar](checks_publicar.jpg)
