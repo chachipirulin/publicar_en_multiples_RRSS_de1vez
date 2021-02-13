@@ -26,4 +26,4 @@ y sigue las instrucciones de este video:
 
 
 
-## 3. Conecta las fotos de insttagram con twittter a ttravés de IFFT
+##  EN CONSTRUCCION 3. Conecta las fotos de insttagram con twittter a ttravés de IFFT
