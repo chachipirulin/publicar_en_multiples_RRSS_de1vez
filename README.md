@@ -14,7 +14,7 @@ Abre Instagram en tu móvil y Facebook en tu ordenador (puedes abrirlo en tu mó
 [Cómo conectar Instagram a Facebook](https://youtu.be/-KVI9e8peUY)
 
 ## 2. Cómo conectar Instagram a Twitter
-Siguiendo este paso, lo que publiques en Instagram, se publicará en  Twitter (con foto incluída).
+**Siguiendo este paso, lo que publiques en Instagram, se publicará en  Twitter (con foto incluída).**
 Si sincronizas Instagram con Twitter (tal y como hemos hecho en el paso 1. con facebook), aparecerá tal que así publicado en Twitter:
 ![twitter_nova](twitter_nova.png)
 
@@ -29,7 +29,8 @@ seguir las instrucciones de este video:
 
 A mí me ha tardado algo menos de cinco minutos como puedes ver (flecha roja en la foto).
 ![5minutos](5minutos.png)
-Y ya estaría! Algo no funciona? algo no es correcto? escríbeme a telegram o whatsapp al 644277210 o email a xirimiris@protonmail.com
+Y ya estaría!
+**¿algo no funciona? ¿algo no es correcto? escríbeme a telegram o whatsapp al 644277210 o email a xirimiris@protonmail.com**
 
 Un abrazo,
 
