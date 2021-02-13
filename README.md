@@ -36,8 +36,8 @@ Un abrazo,
 
 Carmen ML
 
-NOTA PIE DE PÁGINA:
+**NOTA PIE DE PÁGINA:**
 
 Asegúrate de que cuando publiques desde instagram, los "checks" estén en azul/ON publicar también Facebook y Twitter tal y como muestra  la siguiente imagen:
 
-![checks_publicar.](checks_publicar..png)
+![checks_publicar](checks_publicar.png)
