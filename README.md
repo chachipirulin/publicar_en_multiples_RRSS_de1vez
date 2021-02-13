@@ -31,6 +31,7 @@ seguir las instrucciones de este video:
 A mí me ha tardado algo menos de cinco minutos como puedes ver (flecha roja en la foto):
 
 ![5minutos](5minutos.png)
+
 Y ya estaría!
 **¿algo no funciona? ¿algo no es correcto? escríbeme a telegram o whatsapp al 644277210 o email a xirimiris@protonmail.com**
 
