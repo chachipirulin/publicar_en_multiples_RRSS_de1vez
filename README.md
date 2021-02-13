@@ -10,7 +10,7 @@ Sobran razones y palabras para explicar por qué es necesario que un negocio ten
 * Tener cuenta en IFFT (si no la tienes, hazte cuenta ahora en https://ifttt.com/home)
 
 ## 1. Conectar Instagram a Facebook
-+Siguiendo este paso, lo que publiques en instagram, se publicará automaticamente en Facebook.*
+**Siguiendo este paso, lo que publiques en instagram, se publicará automaticamente en Facebook.**
 Abre Instagram en tu móvil y Facebook en tu ordenador (puedes abrirlo en tu móvil, pero a mí así me es más cómodo) y sigue los pasos en este vídeo:
 
 [Cómo conectar Instagram a Facebook](https://youtu.be/-KVI9e8peUY)
