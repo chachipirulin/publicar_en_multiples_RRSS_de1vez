@@ -27,7 +27,8 @@ seguir las instrucciones de este video:
 
 **Bien, si ahora publicas en Instagram, aún no se ve en Twitter la foto que hayas publicado**, si no un enlace (MIRA NOTA EN PIE DE PÁGINA). Esto es porque IFTTT tarda al menos unos minutos en traducir ese enlace a foto. Si quieres, vuelve a mirar tu Twitter dentro de unos minutos para ver si el enlace "se ha convertido" en imagen.
 
-A mí me ha tardado algo menos de cinco minutos como puedes ver (flecha roja en la foto).
+A mí me ha tardado algo menos de cinco minutos como puedes ver (flecha roja en la foto):
+
 ![5minutos](5minutos.png)
 Y ya estaría!
 **¿algo no funciona? ¿algo no es correcto? escríbeme a telegram o whatsapp al 644277210 o email a xirimiris@protonmail.com**
