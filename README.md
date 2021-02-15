@@ -1,5 +1,6 @@
 # Cómo publicar en Facebook en Twitter y en Instagram a la vez
 ![](https://github.com/chachipirulin/publicar_en_multiples_RRSS_de1vez/blob/main/FOTOS_/3grandes_small.png)
+
 Sobran las razones por las que es necesario para un comercio publicar las diferentes RRSS. Así pues, vamos al grano con el tutorial:
 
 ### Requisitos:
